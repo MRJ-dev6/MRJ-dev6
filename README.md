@@ -22,9 +22,10 @@
 
 ### Languages and Tools:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,py,html,css,git,mysql,androidstudio" />
-</p>
+| | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| <img src="https://skillicons.dev/icons?i=ts" width="40"> | <img src="https://skillicons.dev/icons?i=js" width="40"> | <img src="https://skillicons.dev/icons?i=nextjs" width="40"> | <img src="https://skillicons.dev/icons?i=react" width="40"> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"> | <img src="https://skillicons.dev/icons?i=dart" width="40"> | <img src="https://skillicons.dev/icons?i=flutter" width="40"> | <img src="https://skillicons.dev/icons?i=cs" width="40"> | <img src="https://skillicons.dev/icons?i=neovim" width="40"> |
+| <img src="https://skillicons.dev/icons?i=firebase" width="40"> | <img src="https://skillicons.dev/icons?i=py" width="40"> | <img src="https://skillicons.dev/icons?i=kotlin" width="40"> | <img src="https://skillicons.dev/icons?i=android" width="40"> | <img src="https://skillicons.dev/icons?i=mysql" width="40"> | <img src="https://skillicons.dev/icons?i=sqlite" width="40"> | <img src="https://skillicons.dev/icons?i=git" width="40"> | <img src="https://skillicons.dev/icons?i=html" width="40"> | <img src="https://skillicons.dev/icons?i=css" width="40"> |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MRJ-dev6&show_icons=true&theme=radical"/>
