@@ -29,6 +29,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" height="50" />
   <img src="https://skillicons.dev/icons?i=bloc" height="50" />
+  <img src="https://raw.githubusercontent.com/hivedb/hive/master/v1/hive_logo.png" width="40" height="40" />
 </p>
 
 <p align="left">
