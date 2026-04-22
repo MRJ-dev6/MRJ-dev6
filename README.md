@@ -23,15 +23,16 @@
 ### Languages and Tools:
 
 <p align="left">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart,flutter,cpp,py" alt="My Primary Languages" height="50" width="auto"/></a>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cpp,py,html,css" height="50" />
 </p>
 
 <p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" alt="Database and Backend" height="50" width="auto"/></a>
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" height="50" />
+  <img src="https://skillicons.dev/icons?i=bloc" height="50" />
 </p>
 
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,postman" alt="Workflow Tools" height="50" width="auto"/></a>
+  <img src="https://skillicons.dev/icons?i=git,androidstudio,vscode,postman" height="50" />
 </p>
 
 <p align="center">
