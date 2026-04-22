@@ -3,12 +3,13 @@
 
 ![Views](https://komarev.com/ghpvc/?username=MRJ-dev6&color=blue)
 
+<img align="right" src="image.png" width="300" />
+
 
 * 🌱 I'm currently learning **Flutter Development**
 * 📫 How to reach me: **your-email@gmail.com**
 * ⚡ Fun fact: **Always learning and building**
 
-<img align="right" src="image.png" width="300" />
 
 ---
 
