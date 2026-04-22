@@ -3,7 +3,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=MRJ-dev6&color=blue)
 
-<img align="right" src="path_to_your_image.png" width="300" />
+<img align="right" src="image.png" width="300" />
 
 ### Languages and Tools:
 <p align="left">
