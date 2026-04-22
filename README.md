@@ -3,6 +3,19 @@
 
 ![Views](https://komarev.com/ghpvc/?username=MRJ-dev6&color=blue)
 
+### Connect with me:
+
+* 🌱 I'm currently learning **Flutter Development**
+* 📫 How to reach me: **your-email@gmail.com**
+* ⚡ Fun fact: **Always learning and building**
+
+---
+
+### Social Media:
+
+<a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR_TWITTER_HANDLE" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR_LINKEDIN_USERNAME" height="30" width="40" /></a>
+
 <img align="right" src="image.png" width="300" />
 
 ### Languages and Tools:
