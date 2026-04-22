@@ -7,7 +7,7 @@
 
 
 * 🌱 I'm currently learning **Flutter Development**
-* 📫 How to reach me: **your-email@gmail.com**
+* 📫 How to reach me: **za0065620@gmail.com**
 * ⚡ Fun fact: **Always learning and building**
 
 
@@ -24,6 +24,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,py,html,css,git,mysql,androidstudio" />
 </p>
-
+---
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MRJ-dev6&show_icons=true&theme=radical)
