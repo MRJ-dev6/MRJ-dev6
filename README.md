@@ -4,7 +4,7 @@
 ---
 ![Views](https://komarev.com/ghpvc/?username=MRJ-dev6&color=blue)
 
-<img align="center right" src="image.png" width="300" />
+<img align="right" src="image.png" width="300" />
 
 
 * 🌱 I'm currently learning **Flutter Development**
