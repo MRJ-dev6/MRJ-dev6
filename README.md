@@ -1,5 +1,5 @@
 # Hi There 👋, I'm Mohamed Alaa
-### I'm a Software Engineer focused on Flutter development...
+### I'm a Flutter Developer...
 
 ---
 ![Views](https://komarev.com/ghpvc/?username=MRJ-dev6&color=blue)
