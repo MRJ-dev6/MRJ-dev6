@@ -1,21 +1,23 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Mohamed Alaa</h1>
-<h3 align="center">Flutter Developer</h3>
+<div align="center">
+  <!-- Animated Typing Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=01B5F0&center=true&vCenter=true&width=700&height=50&lines=Flutter+%26+Mobile+Developer;Clean+Architecture+%26+Bloc%2FCubit;Custom+Widgets+%26+RenderObjects;Arch+Linux+%26+VS+Code" alt="Typing Effect" />
+</div>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=MRJ-dev6">
-    <img src="https://komarev.com/ghpvc/?username=MRJ-dev6&label=Profile%20views&color=00FFFF&style=flat-square" alt="MRJ-dev6's profile views" />
-  </a>
-</p>
+---
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- 🍃 i'am currently learning
-
+- 📱 **Mobile Developer** specialized in building cross-platform applications using **Flutter & Dart**.
+- 🏛️ Deeply focused on **Clean Architecture**, **Bloc/Cubit** State Management, and SOLID principles.
+- 🎨 Passionate about crafting high-performance **Custom UI Widgets & RenderObjects**.
+- 🐧 Proud **Arch Linux** power user, coding on VS Code.
 
 ## 🧠 My Focus Areas
-- Flutter
-
+- ⚡ **Flutter & Dart Ecosystem**
+- 🏗️ Scalable Architecture & Code Organization
+- 🎨 Advanced UI Animations & Custom Rendering
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -30,36 +32,34 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MRJ-dev6&theme=dark&radius=10" alt="MRJ-dev6's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Mobile & Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools & Environment</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=MRJ-dev6)
+<div align="center">
+  <img src="https://stats.pphat.top/languages?username=MRJ-dev6" alt="Top language" />
+</div>
 <br/>
 
 ## 🔗 Connect with Me
@@ -76,7 +76,7 @@
 </p>
 
 ## 💬 Quote
-> will add it later
+> *"Code is like humor. When you have to explain it, it’s bad."*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -84,9 +84,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
