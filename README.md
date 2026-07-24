@@ -30,7 +30,7 @@
   <img src="https://trophy.ryglcloud.net/?username=MRJ-dev6&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mohamed Alaa's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MRJ-dev6&theme=dark&radius=10" alt="MRJ-dev6's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MRJ-dev6&bg_color=0d1117&color=01B5F0&line=01B5F0&point=ffffff&area=true&hide_border=true" alt="MRJ-dev6's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
